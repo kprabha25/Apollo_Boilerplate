@@ -2,5 +2,6 @@
 Basic Apollo Server with mock data
 
 # Included
-Scalar Type
+Scalar Type  
+
 Helper Function
